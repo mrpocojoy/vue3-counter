@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar&display=swap');
+
+* {
+  font-family: 'Akshar', sans-serif;
+}
+
+
+h1 {
+  font-weight: bold;
+  color: grey;
+}
+
+
+.container {
+  text-align: center;
+  background-color: #dddddd;
+}
+
+button {
+  cursor: pointer;
+  font-size: 2rem;
+  margin: 5px;
+}
